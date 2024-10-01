@@ -1,9 +1,9 @@
-# Your Name Here
+# Braxton Rosner
 # UWYO COSC 1010
-# Submission Date
+# 10/2/24
 # Lab 03 
-# Lab Section: 
-# Sources, people worked with, help given to: 
+# Lab Section: 15
+# Sources, people worked with, help given to: N/A
 # your
 # comments
 # here
@@ -92,6 +92,24 @@ min_temps = [
     17, 28, 23, 25, 23, 23, -3, -15, 19, 5,
     -1, -1, 11, 13
 ]
+max_sum=0
+for x in [max_temps]:
+   max_sum= sum(x)
+max_length=(len(max_temps))
+avg_max= max_sum/max_length
+print(avg_max)
+
+min_sum=0
+for x in [min_temps]:
+   min_sum= sum(x)
+min_length=(len(min_temps))
+avg_min= min_sum/min_length
+print(avg_min)
+
+
+print(max(max_temps))
+print(min(min_temps))
+
 
 # The above two lists are datasets for the maximum and minimum temperatures for Laramie in 2023.
 # Each of these lists has the same length, indicating that they both have the same index positions.

@@ -1,12 +1,7 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# Braxton Rosner
+## Lab 04
+## 10/2/24
 ## Worked with/sources 
-* example
-* example
-* example
-* example
+* N/A
 ## Project Quirks/ Things that don't work
-* example
-* example
-* example
+* N/A
